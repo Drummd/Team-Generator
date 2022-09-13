@@ -1,0 +1,22 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "Team-generator-website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drummd/Team-Generator.git"
+  },
+  "author": "Dalton Drumm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drummd/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/Drummd/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
